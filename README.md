@@ -3,7 +3,7 @@
 
 The search keywords script was created my sopohmore year for my Unix fundamentals class.
 
-The script searches a text file full of tweets based on a keyword the user determines. The script then creates a folder named after the search term and fills the folder with text files that contain singluar tweets containing the search term.
+The script searches a text file full of tweets based on a keyword the user determines. The script then creates a folder named after the search term and fills the folder with text files that contain the search term.
 
 The script has 2 options. 
 
