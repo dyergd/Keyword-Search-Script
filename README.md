@@ -1,4 +1,4 @@
-# Search-Keywords-Script
+# Keyword-Search-Script
 
 
 The search keywords script was created my sopohmore year for my Unix fundamentals class.
